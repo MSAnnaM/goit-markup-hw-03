@@ -92,7 +92,6 @@ margin-right: 76px;
 }
 .header-link:hover,
 .header-link:focus{
-    text-decoration: underline;
     color: #404BBF;
 }
 .contacts{
@@ -176,9 +175,6 @@ padding: 120px 0;
         letter-spacing: 0.02em;
         color: var(--text);
 }
-.doing{
-    padding: 120px;
-}
 .doing-list{
     display: flex;
     gap: 24px;
@@ -218,7 +214,6 @@ padding: 120px 0;
 .team-list{
     display: flex;
     gap: 24px;
-    padding-bottom: 120px;
 
 }
 .team-container{
@@ -278,7 +273,6 @@ font-size: 16px;
     display: flex;
     gap: 24px;
     justify-content: center;
-    padding-bottom: 36px;
     margin-bottom: 72px;
 }
 .portfolio-button{
@@ -315,7 +309,6 @@ border-radius: 4px;
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px;
 }
 .portfolio-list-title{
     font-weight: 500;
@@ -331,6 +324,5 @@ margin-bottom: 8px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: var(--text);
-        padding-bottom: 16px;
 
 }
