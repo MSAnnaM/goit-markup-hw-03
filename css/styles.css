@@ -175,10 +175,12 @@ padding: 120px 0;
         letter-spacing: 0.02em;
         color: var(--text);
 }
+.doing{
+    padding-bottom: 120px;
+}
 .doing-list{
     display: flex;
     gap: 24px;
-    margin-bottom: 120px;
 
 }
 .doing-title{
